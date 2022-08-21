@@ -1,2 +1,2 @@
-# plate-js-async-mention
+# plate-async-mentions
 Created with CodeSandbox
